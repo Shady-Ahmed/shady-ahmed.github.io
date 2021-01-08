@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shady E. Ahmed"
 title_separator          : "-"
 name                     : &name "Shady E. Ahmed"
-description              : &description "DDDDpersonal description"
+description              : &description "personal description"
 url                      : https://shady-ahmed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shady-ahmed.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shady Ahmed"
   avatar           : "SFYsnow.jpg"
-  bio              : 
+  bio              : " "
   location         : "Stillwater, OK"
-  employer         : "Oklahoma State University"
+  employer         : ""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ak0e71kAAAAJ&hl=en"
   email            : "shady.ahmed@okstate.edu"

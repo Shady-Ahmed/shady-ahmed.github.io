@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate at the School of Mechanical and Aerospace Engineering, Oklahoma State University. I am working with a group of fascinating researchers and friends at the [CFDlab](https://www.cfdlab.org/) under the supervision of [Dr. Omer San](https://ceat.okstate.edu/mae/faculty_and_staff.html). 
+I am a doctoral candidate at the School of Mechanical and Aerospace Engineering, Oklahoma State University, under the supervision of [Dr. Omer San](https://ceat.okstate.edu/mae/faculty_and_staff.html). I am working with a group of fascinating researchers and friends at the [CFDlab](https://www.cfdlab.org/) on developing hybrid physics-based and data-driven tools to address a wide spectrum of problems in science and engineering. We fuse knowledge from physical sciences (e.g., fluid dynamics and computational mechanics), mathematics (e.g., numerical analysis and linear algebra), and statistical inference (e.g., machine learning) to deliver innovative solutions to classical as well as modern problems. 
+
+I am, in particular, interested in the emerging [digital twin](https://en.wikipedia.org/wiki/Digital_twin) infrastructures. I work on developing model reduction (or reduced order modeling) algorithms, to releive the computational burden and fulfill multi-queries in near real-time during online deployment. Recently, I borrow data assimilation (DA) techniques from geophysical sciences to improve the reliability, robustness, and representability of the working low-order models. Please visit my [Portfolio](https://shady-ahmed.github.io/portfolio/) page for a list of developed frameworks.
 
 [//]: # (This may be the most platform independent comment)
 

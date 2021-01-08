@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate at the School of Mechanical and Aerospace Engineering, Oklahoma State University. I am working with a group of fascinating researchers and friends at the [CFDlab](https://www.cfdlab.org/) under the supervision of Dr. Omer San. 
+I am a doctoral candidate at the School of Mechanical and Aerospace Engineering, Oklahoma State University. I am working with a group of fascinating researchers and friends at the [CFDlab](https://www.cfdlab.org/) under the supervision of [Dr. Omer San](https://ceat.okstate.edu/mae/faculty_and_staff.html). 
 
 [//]: # (This may be the most platform independent comment)
 
@@ -51,4 +51,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

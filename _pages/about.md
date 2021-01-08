@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shady Ahmed -- Welcome to my personal website"
+title: "How You Doin'?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

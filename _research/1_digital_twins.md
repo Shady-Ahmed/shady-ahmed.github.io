@@ -14,9 +14,7 @@ education (DT of a student, a teacher, a class), and even the globe (DT of the E
 I am especially interested in DT of engineering systems (in particular, involving fluid flows). 
 Nonetheless, a major cornerstone of these DT developments is to provide a timely (near real-time) and sufficiently accurate response in an efficient way (e.g., computationally).
 
-![alt text](/images/dt.png)
+<img src="/images/dt.png" width="100%">
 
-# My research activities push toward hybrid analysis and modeling (HAM) frameworks for digital twin (DT) realization along three directions: 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   1. Reduced Order Modeling (ROM);
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. Data Assimilation (DA);
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  3. Machine Learning (ML).
+
+## My research activities push toward hybrid analysis and modeling (HAM) frameworks for digital twin (DT) realization along three directions: *Reduced Order Modeling (ROM)*; *Data Assimilation (DA)*; and *Machine Learning (ML)*.

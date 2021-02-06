@@ -1,3 +1,9 @@
+---
+title: "Digital Twinning"
+collection: research
+permalink: /research/1_digital_twins
+---
+
 # Digital Twinning 
 The main driver behind my research activities is the need to develop efficient and effective digital twin (DT) technologies. 
 DTs are simply defined as the virtual representation of a physical asset or entity, with continuous communication and sharing of information between both of them. 

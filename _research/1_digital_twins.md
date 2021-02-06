@@ -18,4 +18,4 @@ Nonetheless, a major cornerstone of these DT developments is to provide a timely
 <img src="/images/dt.png" width="100%">
 
 
-## My research activities push toward hybrid analysis and modeling (HAM) frameworks for digital twin (DT) realization along three directions: *Reduced Order Modeling (ROM)*; *Data Assimilation (DA)*; and *Machine Learning (ML)*.
+### My research activities push toward hybrid analysis and modeling (HAM) frameworks for digital twin (DT) realization along three directions: *Reduced Order Modeling (ROM)*; *Data Assimilation (DA)*; and *Machine Learning (ML)*.

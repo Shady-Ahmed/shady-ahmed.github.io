@@ -14,10 +14,10 @@ Often, the physical system provides a live stream of real-time measurements.
 Then, the DT has to process, and analyze these data and return some useful information, feedback, or predictions. This can be exploited for informed decision making, active control, or risk management. </p>
 
 
-<dev style='text-align: justify;'> <img align='right' src='/images/dt3.jpg' width='45%'> Imagine that your computer carries a software that duplicates yourself, including your body, organs, and behavior (maybe?). You might wear an Apple watch that streams your vital signs to that software. 
+<p style='text-align: justify;'> <img align='right' src='/images/dt3.jpg' width='45%'> Imagine that your computer carries a software that duplicates yourself, including your body, organs, and behavior (maybe?). You might wear an Apple watch that streams your vital signs to that software. 
 Then, your DT can process and analyze these data to provide you with any potential health problems, and even recommend a doctor visit. 
 Moreover, it might be connected to your credit cards, bandk accounts, and insurance companies to predict the influence a purchase you might do onto your future savings.
-Thus, you can adjust your consumption, selling, or purchasing accordingly. </dev> **It is really interesting, isn't it?** 
+Thus, you can adjust your consumption, selling, or purchasing accordingly. </p> **It is really interesting, isn't it?** 
 
 
 

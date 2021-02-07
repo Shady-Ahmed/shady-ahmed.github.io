@@ -1,10 +1,10 @@
 ---
 title: "Digital Twinning"
 collection: research
-excerpt: "The main driver behind my research activities is the need to develop efficient and effective digital twin (DT) technologies. 
+excerpt: "<div style="text-align: justify"> The main driver behind my research activities is the need to develop efficient and effective digital twin (DT) technologies. 
 DTs are simply defined as the virtual representation of a physical asset or entity, with continuous communication and sharing of information between both of them. 
 Often, the physical system provides a live stream of real-time measurements. 
-Then, the DT has to process, and analyze these data and return some useful information, feedback, or predictions. This can be exploited for informed decision making, active control, or risk management. <br/><br/><img src='/images/dt.png' width='75%'> "
+Then, the DT has to process, and analyze these data and return some useful information, feedback, or predictions. This can be exploited for informed decision making, active control, or risk management.</div> <br/><br/><img src='/images/dt.png' width='75%'> "
 permalink: /research/1_digital_twins
 ---
 
@@ -28,5 +28,5 @@ Nonetheless, a major cornerstone of these DT developments is to provide a timely
 <img src="/images/dt.png" width="100%">
 
 
-### My research activities push toward hybrid analysis and modeling (HAM) frameworks for digital twin (DT) realization along three directions: *Reduced Order Modeling (ROM)*; *Data Assimilation (DA)*; and *Machine Learning (ML)*."
+### My research activities push toward hybrid analysis and modeling (HAM) frameworks for digital twin (DT) realization along three directions: *Reduced Order Modeling (ROM)*; *Data Assimilation (DA)*; and *Machine Learning (ML)*.
 ---

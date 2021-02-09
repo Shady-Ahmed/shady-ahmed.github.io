@@ -13,13 +13,12 @@ redirect_from:
 <p style='text-align: justify;'>I am, in particular, interested in the emerging <a href="https://en.wikipedia.org/wiki/Digital_twin">digital twin</a> infrastructures. I work on developing model reduction (or reduced order modeling) algorithms, to relieve the computational burden and fulfill multi-queries in near real-time during online deployment. Recently, I borrow <a href="https://en.wikipedia.org/wiki/Data_assimilation">data assimilation</a> (DA) techniques from geophysical sciences to improve the reliability, robustness, and representability of the working low-order models. Please visit my <a href="https://shady-ahmed.github.io/research/">Research</a> page for synopses of my research interests and my <a href="https://shady-ahmed.github.io/portfolio/">Portfolio</a> page for a list of developed approaches. </p>
 
 ## Recent News
-
+<!--
   * _**Feb 1, 2021**_: Our work on interface learning for coupling full and reduced order models has been accepted for publication in **PLOS ONE** [<a href="https://arxiv.org/abs/2007.06179">Preprint</a>].
 
   * _**Jan 15, 2021**_: I presented our work demonstrating the use of nonlinear filtering in eddy viscosity estimation for model closure in coarse-grained simulations at the **2021 AIAA SciTech Conference** [<a href="https://www.youtube.com/watch?v=0YMJgl3ZZuE">Recording</a>, <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2021-1332">Paper</a>].
 
   * _**Jan 15, 2021**_: Our work on hybrid analysis and modeling (HAM) frameworks for next-generation digital twins received the best poster award based on technical content at the **EERA DeepWind'2021 - Offshore Wind R&D Digital Conference** [<a href="https://youtu.be/JptJb4U4jVU">Recording</a>].
-
 
   * _**Nov 26, 2020**_: Our _PyDA_ tutorial paper providing an open-access introductory crash course on popular data assimilation algorithms with basic hands-on Python implementation has been accepted for publication in **Fluids** [<a href="https://www.mdpi.com/2311-5521/5/4/225">Paper</a>, <a href="https://github.com/Shady-Ahmed/PyDA">Codes</a>].
   
@@ -45,8 +44,9 @@ redirect_from:
   
   * _**Jan 15, 2020**_: Our paper comparing the sampling and resolution charachteristics for intrusive reduced order models (ROMs) of shallow water equations based on Galerkin projection and proper orthogonal decomposition (POD) against non-intrusive ROMs (NIROMs) based on feedforward neural networks with POD embedding as well as NIROM with dynamic mode decomposition has been accepted for publication in **International Journal for Numerical Methods in Fluids** [<a href="https://arxiv.org/abs/1910.07654">Preprint</a>, <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/fld.4815">Paper</a>].
 
+markdown: CommonMarkGhPages
+-->
 
-<!--
 <details>
   
   <summary>2021</summary> 
@@ -92,7 +92,7 @@ redirect_from:
 
 </details>
 
--->
+
 
 [//]: # (This may be the most platform independent comment)
 

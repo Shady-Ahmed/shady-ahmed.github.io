@@ -28,7 +28,7 @@ redirect_from:
 
 <details>
   
-  <summary> 2020</summary> 
+  <summary>2020</summary> 
   
   * _**Nov 26, 2020**_: Our _PyDA_ tutorial paper providing an open-access introductory crash course on popular data assimilation algorithms with basic hands-on Python implementation has been accepted for publication in **Fluids** [<a href="https://www.mdpi.com/2311-5521/5/4/225">Paper</a>, <a href="https://github.com/Shady-Ahmed/PyDA">Codes</a>].
   

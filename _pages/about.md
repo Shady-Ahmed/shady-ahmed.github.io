@@ -12,7 +12,7 @@ redirect_from:
 
 <p style='text-align: justify;'>I am, in particular, interested in the emerging <a href="https://en.wikipedia.org/wiki/Digital_twin">digital twin</a> infrastructures. I work on developing model reduction (or reduced order modeling) algorithms, to relieve the computational burden and fulfill multi-queries in near real-time during online deployment. Recently, I borrow <a href="https://en.wikipedia.org/wiki/Data_assimilation">data assimilation</a> (DA) techniques from geophysical sciences to improve the reliability, robustness, and representability of the working low-order models. Please visit my <a href="https://shady-ahmed.github.io/research/">Research</a> page for synopses of my research interests and my <a href="https://shady-ahmed.github.io/portfolio/">Portfolio</a> page for a list of developed approaches. </p>
 
-### Recent News 
+## Recent News 
 <details>
   
 <summary>2021</summary> 

@@ -51,7 +51,7 @@ markdown: CommonMarkGhPages
   
   <summary>2021</summary> 
 
-  * _**Feb 1, 2021**_: Our work on interface learning for coupling full and reduced order models has been accepted for publication in **PLOS ONE** [<a href="https://arxiv.org/abs/2007.06179">Preprint</a>].
+  * _**Feb 1, 2021**_: Our work on interface learning for coupling full and reduced order models has been accepted for publication in **PLOS ONE** [<a href="https://arxiv.org/abs/2007.06179">Preprint</a>, <a href="https://doi.org/10.1371/journal.pone.0246092">Paper</a>].
 
 
   * _**Jan 15, 2021**_: I presented our work demonstrating the use of nonlinear filtering in eddy viscosity estimation for model closure in coarse-grained simulations at the **2021 AIAA SciTech Conference** [<a href="https://www.youtube.com/watch?v=0YMJgl3ZZuE">Recording</a>, <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2021-1332">Paper</a>].

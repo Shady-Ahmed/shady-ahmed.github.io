@@ -18,6 +18,9 @@ redirect_from:
   
   <summary>2021</summary> 
   
+   * _**Feb 18, 2021**_: I am co-organizing (along with Suraj Pawar, Omer San, and Adil Rasheed) a mini-symposium on _"Hybrid Analysis and Modeling Toward Predictive Digital Twins"_ during the **2021 SIAM Conference on Computational Science and Engineering [SIAM CSE21]** [<a href="https://www.siam.org/conferences/cm/program/program-and-abstracts/cse21-program-abstracts">Full Program</a>, <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69802">Session I</a>, <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69803">Session II</a>].
+
+  
   * _**Feb 18, 2021**_: I presented our work regarding the utility of the forward sensitivity analysis in parameter estimation efforts, with guidelines for optimal measurement placement to control the shape of the cost functional and improve the convergence behavior at the **Second International Nonlinear Dynamics Conference [NODYCON 2021]**  [<a href="https://youtu.be/rsXjhaSwcnM">Recording</a>, <a href="https://arxiv.org/abs/2102.03437">Preprint</a>].
 
 

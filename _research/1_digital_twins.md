@@ -4,10 +4,9 @@ collection: research
 excerpt: "<p style='text-align: justify;'> The main driver behind my research activities is the need to develop efficient and effective digital twin (DT) technologies. 
 DTs are simply defined as the virtual representation of a physical asset or entity, with continuous communication and sharing of information between both of them. 
 Often, the physical system provides a live stream of real-time measurements. 
-Then, the DT has to process, and analyze these data and return some useful information, feedback, or predictions. This can be exploited for informed decision making, active control, or risk management. </p> <p align='center'> <img src='/images/dt.png' width='75%'> </p> "
+Then, the DT has to process, and analyze these data and return some useful information, feedback, or predictions. This can be exploited for informed decision making, active control, or risk management. <a href="https://shady-ahmed.github.io/research/1_digital_twins">Continue reading...</a> </p> <p align='center'> <img src='/images/dt.png' width='75%'> </p> "
 permalink: /research/1_digital_twins 
 ---
-
 <p style='text-align: justify;'> The main driver behind my research activities is the need to develop efficient and effective digital twin (DT) technologies. 
 DTs are simply defined as the virtual representation of a physical asset or entity, with continuous communication and sharing of information between both of them. 
 Often, the physical system provides a live stream of real-time measurements. 

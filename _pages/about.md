@@ -18,7 +18,7 @@ redirect_from:
   
   <summary>2021</summary> 
   
-   * _**Mar 2, 2021**_: I am co-organizing (along with Suraj Pawar, Omer San, and Adil Rasheed) a mini-symposium on _"Hybrid Analysis and Modeling Toward Predictive Digital Twins"_ during the **2021 SIAM Conference on Computational Science and Engineering [SIAM CSE21]** [<a href="https://www.siam.org/conferences/cm/program/program-and-abstracts/cse21-program-abstracts">Full Program</a>, <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69802">Session I</a>, <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69803">Session II</a>].
+   * _**Mar 2, 2021**_: I am co-organizing (along with Suraj Pawar, Omer San, and Adil Rasheed) a two-session mini-symposium on _"Hybrid Analysis and Modeling Toward Predictive Digital Twins"_ during the **2021 SIAM Conference on Computational Science and Engineering [SIAM CSE21]** [<a href="https://www.siam.org/conferences/cm/program/program-and-abstracts/cse21-program-abstracts">Full Program</a>, <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69802">Session I</a>, <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69803">Session II</a>].
 
 
   * _**Feb 24, 2021**_: Our work on the LSTM-Nudging framework for the accurate and quick prediction of the transport of wake vortices towards digital twinning of airports has been accepted for publication in **Computers & Fluids** [<a href="https://arxiv.org/abs/2008.03157">Preprint</a>].

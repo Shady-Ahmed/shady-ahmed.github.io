@@ -18,6 +18,9 @@ redirect_from:
   
   <summary>2021</summary> 
   
+   * _**Apr 3, 2021**_: I received the best paper award for our work on interface learning for coupling full and reduced order models in multi-fidelity computations at the **40th ASME/AIAA Regional Symposium** [<a href="https://ceat.okstate.edu/mae/research/aiaa-asme-symposium.html">Program & Details</a>, <a href="https://youtu.be/Z_klsssOatI">Recording</a>].
+
+
    * _**Mar 2, 2021**_: We co-organized a two-session mini-symposium on _"Hybrid Analysis and Modeling Toward Predictive Digital Twins"_ during the **2021 SIAM Conference on Computational Science and Engineering [SIAM CSE21]** [<a href="https://www.siam.org/conferences/cm/program/program-and-abstracts/cse21-program-abstracts">Full Program</a>, <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69802">Session I</a>, <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69803">Session II</a>].
 
 

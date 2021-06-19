@@ -18,6 +18,9 @@ redirect_from:
   
   <summary>2021</summary> 
   
+     * _**Jun 8, 2021**_: I presented our work on the nudged hybrid analysis and modeling framework for the accurate and quick prediction of the transport of wake vortices towards digital twinning of airports at the **2021 Computational Sciences and AI in Industry [CSAI 2021]** [<a href="https://congress.cimne.com/csai2021/frontal/programprint.asp?t=intro">Program & Details</a>, <a href="https://youtu.be/aJZw-QAIYK4">Recording</a>].
+  
+  
    * _**Apr 3, 2021**_: I received the best paper award for our work on interface learning for coupling full and reduced order models in multi-fidelity computations at the **40th ASME/AIAA Regional Symposium** [<a href="https://ceat.okstate.edu/mae/research/aiaa-asme-symposium.html">Program & Details</a>, <a href="https://youtu.be/Z_klsssOatI">Recording</a>].
 
 

@@ -36,11 +36,11 @@ profiles:
     url: https://www.researchgate.net/profile/Shady-Ahmed
   - icon: hb/linkedin
     url: https://www.linkedin.com/in/shady-emad
-  - icon: hb/x
+  - icon: brands/x
     url: https://twitter.com/Shady_3mad
   - icon: hb/github
     url: https://github.com/shady-ahmed
-  - icon: orcid
+  - icon: orcid.svg
     url: https://orcid.org/0000-0001-5548-0265
   - icon: hb/youtube
     url: https://www.youtube.com/channel/UCgY5y22jepVMge67a2OCL2Q

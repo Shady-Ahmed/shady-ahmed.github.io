@@ -59,8 +59,8 @@ education:
       url: 'https://shareok.org/handle/11244/337289'
   - area: MSc in Mechanical Power Engineering
     institution: Mansoura University | Egypt
-    date_start: 2014
-    date_end: 2017
+    date_start: 2014-01-01
+    date_end: 2017-01-01
     #summary: |
     #  GPA: 3.8/4.0
 
@@ -70,8 +70,8 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Mechanical Power Engieering
     institution: Mansoura University | Egypt
-    date_start: 2008
-    date_end: 2013
+    date_start: 2008-01-01
+    date_end: 2013-01-01
     #summary: |
     #  GPA: 3.4/4.0
       
@@ -85,7 +85,7 @@ work:
     company_name: Pacific Northwest National Laboratory
     company_url: 'https://www.pnnl.gov/projects/distinguished-postdoctoral-fellowship-scientific-computing'
     company_logo: pnnl.svg
-    date_start: 2022
+    date_start: 2022-01-01
     date_end: ''
     #summary: |2-
     #  Responsibilities include:
@@ -96,8 +96,8 @@ work:
     company_name: Oklahoma State University
     company_url: 'https://ceat.okstate.edu/mae/'
     company_logo: ''
-    date_start: 2018
-    date_end: 2022
+    date_start: 2018-01-01
+    date_end: 2022-01-01
     #summary: |
     #  Responsibilities include:
     #  - Migrated infrastructure to a new data center
@@ -107,8 +107,8 @@ work:
     company_name: Argonne National Laboratory
     company_url: 'https://www.anl.gov/education/givens-associates'
     company_logo: ''
-    date_start: 2021
-    date_end: 2021
+    date_start: 2021-01-01
+    date_end: 2021-01-01
     #summary: |
     #  Responsibilities include:
     #  - Migrated infrastructure to a new data center

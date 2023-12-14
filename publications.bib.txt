@@ -1,0 +1,341 @@
+@article{emad2017dynamic,
+  title={Dynamic model of calcium looping carbonator using alternating bubbling beds with gas switching},
+  author={Emad, Shady and Hegazi, Ahmed A and El-Emam, Salah H and Okasha, Farouk M},
+  journal={Fuel},
+  volume={208},
+  pages={522--534},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{emad2016modeling,
+  title={Modeling of Carbon Dioxide Capture in Fluidized Bed},
+  author={Emad, Shady and Hegazi, Ahmed A. and El-Emam, Salah H. and Okasha, Farouk M.},
+  journal={Mansoura Engineering Journal},
+  volume={41},
+  number={4},
+  year={2016},
+  publisher={Mansoura University}
+}
+
+@article{rahman2019dynamic,
+  title={A dynamic closure modeling framework for model order reduction of geophysical flows},
+  author={Rahman, Sk Mashfiqur and Ahmed, Shady Emad and San, Omer},
+  journal={Physics of Fluids},
+  volume={31},
+  number={4},
+  pages={046602},
+  year={2019},
+  publisher={AIP Publishing}
+}
+
+
+@article{ahmed2020sampling,
+  title={Sampling and resolution characteristics in reduced order models of shallow water equations: Intrusive vs nonintrusive},
+  author={Ahmed, Shady E and San, Omer and Bistrian, Diana A and Navon, Ionel M},
+  journal={International Journal for Numerical Methods in Fluids},
+  volume={92},
+  number={8},
+  pages={992--1036},
+  year={2020}
+}
+
+@article{ahmed2019memory,
+  title={Memory embedded non-intrusive reduced order modeling of non-ergodic flows},
+  author={Ahmed, Shady E and Rahman, Sk Mashfiqur and San, Omer and Rasheed, Adil and Navon, Ionel M},
+  journal={Physics of Fluids},
+  volume={31},
+  number={12},
+  year={2019},
+  publisher={AIP Publishing}
+}
+
+@article{pawar2020data,
+  title={Data-driven recovery of hidden physics in reduced order modeling of fluid flows},
+  author={Pawar, Suraj and Ahmed, Shady E and San, Omer and Rasheed, Adil},
+  journal={Physics of Fluids},
+  volume={32},
+  number={3},
+  year={2020},
+  publisher={AIP Publishing}
+}
+
+@article{pawar2020evolve,
+  title={An evolve-then-correct reduced order model for hidden fluid dynamics},
+  author={Pawar, Suraj and Ahmed, Shady E and San, Omer and Rasheed, Adil},
+  journal={Mathematics},
+  volume={8},
+  number={4},
+  pages={570},
+  year={2020},
+  publisher={MDPI}
+}
+
+@article{ahmed2020long,
+  title={A long short-term memory embedding for hybrid uplifted reduced order models},
+  author={Ahmed, Shady E and San, Omer and Rasheed, Adil and Iliescu, Traian},
+  journal={Physica D: Nonlinear Phenomena},
+  volume={409},
+  pages={132471},
+  year={2020},
+  publisher={North-Holland}
+}
+
+@article{annaorazov2020nonintrusive,
+  title={A nonintrusive reduced order modelling of magnetic skyrmions},
+  author={Annaorazov, Muhammet and Ahmed, Shady and San, Omer and Turgut, Emrah},
+  journal={Bulletin of the American Physical Society},
+  volume={65},
+  year={2020},
+  publisher={American Physical Society}
+}
+
+@article{ahmed2020breaking,
+  title={Breaking the Kolmogorov barrier in model reduction of fluid flows},
+  author={Ahmed, Shady E and San, Omer},
+  journal={Fluids},
+  volume={5},
+  number={1},
+  pages={26},
+  year={2020},
+  publisher={MDPI}
+}
+
+@article{ahmed2020forward,
+  title={Forward sensitivity approach for estimating eddy viscosity closures in nonlinear model reduction},
+  author={Ahmed, Shady E and Bhar, Kinjal and San, Omer and Rasheed, Adil},
+  journal={Physical Review E},
+  volume={102},
+  number={4},
+  year={2020},
+  publisher={American Physical Society}
+}
+
+@article{pawar2020long,
+  title={Long short-term memory embedded nudging schemes for nonlinear data assimilation of geophysical flows},
+  author={Pawar, Suraj and Ahmed, Shady E and San, Omer and Rasheed, Adil and Navon, Ionel M},
+  journal={Physics of Fluids},
+  volume={32},
+  number={7},
+  year={2020},
+  publisher={AIP Publishing}
+}
+
+@inproceedings{ahmed2020reduced,
+  title={Reduced order modeling of fluid flows: Machine learning, Kolmogorov barrier, closure modeling, and partitioning},
+  author={Ahmed, Shady E and Pawar, Suraj and San, Omer and Rasheed, Adil},
+  booktitle={AIAA Aviation 2020 Forum}
+  pages={2946},
+  year={2020}
+}
+
+@article{ahmed2020interface,
+  title={Interface learning of multiphysics and multiscale systems},
+  author={Ahmed, Shady E and San, Omer and Kara, Kursat and Younis, Rami and Rasheed, Adil},
+  journal={Physical Review E},
+  volume={102},
+  number={5},
+  pages={053304},
+  year={2020},
+  publisher={American Physical Society}
+}
+
+
+
+@article{pawar2020interface,
+  title={Interface learning in fluid dynamics: Statistical inference of closures within micro--macro-coupling models},
+  author={Pawar, Suraj and Ahmed, Shady E and San, Omer},
+  journal={Physics of Fluids},
+  volume={32},
+  number={9},
+  year={2020},
+  publisher={AIP Publishing}
+}
+
+@article{ahmed2021nudged,
+  title={A nudged hybrid analysis and modeling approach for realtime wake-vortex transport and decay prediction},
+  author={Ahmed, Shady E and Pawar, Suraj and San, Omer and Rasheed, Adil and Tabib, Mandar},
+  journal={Computers \& Fluids},
+  volume={221},
+  pages={104895},
+  year={2021},
+  publisher={Pergamon}
+}
+
+@article{ahmed2020pyda,
+  title={PyDA: A hands-on introduction to dynamical data assimilation with python},
+  author={Ahmed, Shady E and Pawar, Suraj and San, Omer},
+  journal={Fluids},
+  volume={5},
+  number={4},
+  pages={225},
+  year={2020},
+  publisher={MDPI}
+}
+
+@inproceedings{ahmed2021nonlinear,
+  title={Nonlinear Filtering for Simultaneous State Correction and Eddy Viscosity Estimation in Computational Fluid Dynamics},
+  author={Ahmed, Shady E and San, Omer and Faruque, Imraan},
+  booktitle={AIAA SciTech 2021 Forum},
+  pages={1332},
+  year={2021}
+}
+
+@inproceedings{pawar2021hybrid,
+  title={Hybrid analysis and modeling for next generation of digital twins},
+  author={Pawar, Suraj and Ahmed, Shady E and San, Omer and Rasheed, Adil},
+  booktitle={Journal of Physics: Conference Series},
+  volume={2018},
+  number={1},
+  pages={012031},
+  year={2021},
+  organization={IOP Publishing}
+}
+
+@inproceedings{ahmed2021forward,
+  title={Forward Sensitivity Analysis of the FitzHugh--Nagumo System: Parameter Estimation},
+  author={Ahmed, Shady E and San, Omer and Lakshmivarahan, Sivaramakrishnan},
+  booktitle={Advances in Nonlinear Dynamics: Proceedings of the Second International Nonlinear Dynamics Conference (NODYCON 2021), Volume 3},
+  pages={93--103},
+  year={2021},
+  organization={Springer International Publishing Cham}
+}
+
+@article{ahmed2021multifidelity,
+  title={Multifidelity computing for coupling full and reduced order models},
+  author={Ahmed, Shady E and San, Omer and Kara, Kursat and Younis, Rami and Rasheed, Adil},
+  journal={Plos one},
+  volume={16},
+  number={2},
+  pages={e0246092},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{ahmed2021closures,
+  title={On closures for reduced order models—A spectrum of first-principle to machine-learned avenues},
+  author={Ahmed, Shady E and Pawar, Suraj and San, Omer and Rasheed, Adil and Iliescu, Traian and Noack, Bernd R},
+  journal={Physics of Fluids},
+  volume={33},
+  number={9},
+  year={2021},
+  publisher={AIP Publishing}
+}
+
+@inproceedings{tabib2021non,
+  title={A non-intrusive parametric reduced order model for urban wind flow using deep learning and Grassmann manifold.},
+  author={Tabib, Mandar V and Pawar, Suraj and Ahmed, Shady E and Rasheed, Adil and San, Omer},
+  booktitle={Journal of Physics: Conference Series},
+  volume={2018},
+  number={1},
+  pages={012038},
+  year={2021},
+  organization={IOP Publishing}
+}
+
+@article{ahmed2023physics,
+  title={Physics guided machine learning for variational multiscale reduced order modeling},
+  author={Ahmed, Shady E and San, Omer and Rasheed, Adil and Iliescu, Traian and Veneziani, Alessandro},
+  journal={SIAM Journal on Scientific Computing},
+  volume={45},
+  number={3},
+  pages={B283--B313},
+  year={2023},
+  publisher={Society for Industrial and Applied Mathematics University City, Philadelphia}
+}
+
+
+@article{ahmed2021nonlinear,
+  title={Nonlinear proper orthogonal decomposition for convection-dominated flows},
+  author={Ahmed, Shady E and San, Omer and Rasheed, Adil and Iliescu, Traian},
+  journal={Physics of Fluids},
+  volume={33},
+  number={12},
+  year={2021},
+  publisher={AIP Publishing}
+}
+
+@inproceedings{ahmed2022sketching,
+  title={Sketching methods for dynamic mode decomposition in spherical shallow water equations},
+  author={Ahmed, Shady E and San, Omer and Bistrian, Diana and Navon, Ionel},
+  booktitle={AIAA SciTech 2022 Forum},
+  pages={2325},
+  year={2022}
+}
+
+@article{ahmed2022dynamic,
+  title={Dynamic mode decomposition with core sketch},
+  author={Ahmed, Shady E and Dabaghian, Pedram H and San, Omer and Bistrian, Diana A and Navon, Ionel M},
+  journal={Physics of Fluids},
+  volume={34},
+  number={6},
+  year={2022},
+  publisher={AIP Publishing}
+}
+
+@inproceedings{tabib2022hybrid,
+  title={Hybrid deep-learning POD-based parametric reduced order model for flow around wind-turbine blade},
+  author={Tabib, Mandar V and Tsiolakis, Vasileios and Pawar, Suraj and Ahmed, Shady E and Rasheed, Adil and Kvamsdal, Trond and San, Omer},
+  booktitle={Journal of Physics: Conference Series},
+  volume={2362},
+  number={1},
+  pages={012039},
+  year={2022},
+  organization={IOP Publishing}
+}
+
+@article{dabaghian2022nonintrusive,
+  title={Nonintrusive Reduced Order Modelling of Convective Boussinesq Flows},
+  author={Dabaghian, Pedram H and Ahmed, Shady E and San, Omer},
+  journal={International Journal of Computational Fluid Dynamics},
+  volume={36},
+  number={7},
+  pages={578--598},
+  year={2022},
+  publisher={Taylor \& Francis}
+}
+
+@article{attia2023pyoed,
+  title={PyOED: An Extensible Suite for Data Assimilation and Model-Constrained Optimal Design of Experiments},
+  author={Attia, Ahmed and Ahmed, Shady E},
+  journal={arXiv preprint arXiv:2301.08336},
+  year={2023}
+}
+
+
+@article{ahmed2023forward,
+  title={Forward Sensitivity Analysis and Mode Dependent Control for Closure Modeling of Galerkin Systems},
+  author={Ahmed, Shady E and San, Omer},
+  journal = {Computers & Mathematics with Applications},
+  volume = {145},
+  pages = {289-302},
+  year={2023}
+}
+
+@article{ahmed2023dual,
+  title={On the dual advantage of placing observations through forward sensitivity analysis},
+  author={Ahmed, Shady E and San, Omer and Lakshmivarahan, Sivaramakrishnan and Lewis, John M},
+  journal = {Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences},
+  volume = {479},
+  number = {2274},
+  pages = {20220815},
+  year={2023}
+}
+
+@article{ahmed2023multifidelity,
+  title={A multifidelity deep operator network approach to closure for multiscale systems},
+  author={Ahmed, Shady E and Stinis, Panos},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={414},
+  pages={116161},
+  year={2023},
+  publisher={Elsevier}
+}
+
+
+@article{howard2023stacked,
+  title={Stacked networks improve physics-informed training: applications to neural networks and deep operator networks},
+  author={Howard, Amanda A and Murphy, Sarah H and Ahmed, Shady E and Stinis, Panos},
+  journal={arXiv preprint arXiv:2311.06483},
+  year={2023}
+}

@@ -30,25 +30,27 @@ profiles:
   - icon: at-symbol
     url: 'mailto:shady.ahmed@okstate.edu'
     label: E-mail Me
-  - icon: brands/google-scholar
+  - icon: hb/google-scholar
     url: https://scholar.google.com/citations?user=Ak0e71kAAAAJ&hl=en
-  - icon: brands/linkedin
+  - icon: researchgate
+    url: https://www.researchgate.net/profile/Shady-Ahmed
+  - icon: hb/linkedin
     url: https://www.linkedin.com/in/shady-emad
-  - icon: brands/x
+  - icon: hb/x
     url: https://twitter.com/Shady_3mad
-  - icon: brands/github
+  - icon: hb/github
     url: https://github.com/shady-ahmed
-  - icon: orcid
+  - icon: hb/orcid
     url: https://orcid.org/0000-0001-5548-0265
-  - icon: brands/youtube
+  - icon: hb/youtube
     url: https://www.youtube.com/channel/UCgY5y22jepVMge67a2OCL2Q
 
 
 education:
   - area: PhD in Mechanical & Aerospace Engineering
     institution: Oklahoma State University | USA
-    date_start: 2018
-    date_end: 2022
+    date_start: '2018'
+    date_end: '2022'
     summary: |
       Thesis on _Enabling digital twins for large scale dynamical systems through the integration of models and data_. 
     #  #Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with #the contributions being published in 2 Springer journals.

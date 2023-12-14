@@ -40,7 +40,7 @@ profiles:
     url: https://twitter.com/Shady_3mad
   - icon: hb/github
     url: https://github.com/shady-ahmed
-  - icon: hb/orcid
+  - icon: orcid
     url: https://orcid.org/0000-0001-5548-0265
   - icon: hb/youtube
     url: https://www.youtube.com/channel/UCgY5y22jepVMge67a2OCL2Q

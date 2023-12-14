@@ -49,8 +49,8 @@ profiles:
 education:
   - area: PhD in Mechanical & Aerospace Engineering
     institution: Oklahoma State University | USA
-    date_start: '2018'
-    date_end: '2022'
+    date_start: 2018
+    date_end: 2022
     summary: |
       Thesis on _Enabling digital twins for large scale dynamical systems through the integration of models and data_. 
     #  #Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with #the contributions being published in 2 Springer journals.

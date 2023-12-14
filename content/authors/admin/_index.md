@@ -30,19 +30,19 @@ profiles:
   - icon: at-symbol
     url: 'mailto:shady.ahmed@okstate.edu'
     label: E-mail Me
-  - icon: hb/google-scholar
+  - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Ak0e71kAAAAJ&hl=en
-  - icon: researchgate
+  - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Shady-Ahmed
-  - icon: hb/linkedin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/shady-emad
   - icon: brands/x
     url: https://twitter.com/Shady_3mad
-  - icon: hb/github
+  - icon: brands/github
     url: https://github.com/shady-ahmed
-  - icon: orcid.svg
+  - icon: brands/orcid
     url: https://orcid.org/0000-0001-5548-0265
-  - icon: hb/youtube
+  - icon: brands/youtube
     url: https://www.youtube.com/channel/UCgY5y22jepVMge67a2OCL2Q
 
 
@@ -117,45 +117,45 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        #percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        #percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        #percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python
+#        description: ''
+#        #percent: 80
+#        icon: code-bracket
+#      - name: Data Science
+#        description: ''
+#        #percent: 100
+#        icon: chart-bar
+#      - name: SQL
+#        description: ''
+#        #percent: 40
+#        icon: circle-stack
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Arabic
-    percent: 100
-  - name: French
-    percent: 25
+# languages:
+#  - name: English
+#    percent: 100
+#  - name: Arabic
+#    percent: 100
+#  - name: French
+#    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

@@ -26,13 +26,13 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: 'January 2006'
+      date_format: '2006' #'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: publications
-    content:
-      title: Skills & Hobbies
-      username: admin
+  # - block: publications
+  #  content:
+  #    title: Skills & Hobbies
+  #    username: admin
   #- block: awards
   #  content:
   #    title: Awards

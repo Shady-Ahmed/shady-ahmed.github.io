@@ -40,7 +40,8 @@ profiles:
     url: https://twitter.com/Shady_3mad
   - icon: brands/github
     url: https://github.com/shady-ahmed
-  - icon: brands/orcid
+  - icon: orcid
+    icon_pack: fab
     url: https://orcid.org/0000-0001-5548-0265
   - icon: brands/youtube
     url: https://www.youtube.com/channel/UCgY5y22jepVMge67a2OCL2Q

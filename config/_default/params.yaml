@@ -35,6 +35,7 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: floating-theme-toggler
     align: l
     show_logo: true
     show_language: false
@@ -45,7 +46,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Shady Ahmed. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

@@ -35,8 +35,8 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
-    align: l
+    #blox: floating-theme-toggler
+    align: 2
     show_logo: true
     show_language: false
     show_day_night: true

@@ -32,7 +32,7 @@ profiles:
     label: E-mail Me
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Ak0e71kAAAAJ&hl=en
-  - icon: brands/researchgate
+  - icon: researchgate
     url: https://www.researchgate.net/profile/Shady-Ahmed
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shady-emad
@@ -40,8 +40,7 @@ profiles:
     url: https://twitter.com/Shady_3mad
   - icon: brands/github
     url: https://github.com/shady-ahmed
-  - icon: orcid
-    icon_pack: fab
+  - icon: brands/orcid
     url: https://orcid.org/0000-0001-5548-0265
   - icon: brands/youtube
     url: https://www.youtube.com/channel/UCgY5y22jepVMge67a2OCL2Q

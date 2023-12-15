@@ -57,7 +57,7 @@ sections:
     content:
       title: Recent Publications
       page_type: publication
-      count: 3
+      count: 5
 
       text: |-
         {{% callout note %}}

@@ -33,7 +33,7 @@ marketing:
 #    blox: floating-theme-toggler
 
 header:
-  navbar:
+  navbar-simple:
     enable: true
     blox: "navbar-simple"
     align: c

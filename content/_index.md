@@ -57,6 +57,7 @@ sections:
     content:
       title: Recent Publications
       page_type: publication
+      count: 3
 
       text: |-
         {{% callout note %}}
@@ -68,5 +69,5 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: 3
+      view: 4
 ---

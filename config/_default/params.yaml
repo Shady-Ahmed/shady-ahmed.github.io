@@ -36,7 +36,7 @@ header:
   navbar:
     enable: true
     #blox: floating-theme-toggler
-    align: 0
+    align: 1
     show_logo: true
     show_language: false
     show_day_night: true
@@ -64,3 +64,12 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true

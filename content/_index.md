@@ -56,6 +56,8 @@ sections:
   - block: collection
     content:
       title: Recent Publications
+      page_type: publication
+
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).

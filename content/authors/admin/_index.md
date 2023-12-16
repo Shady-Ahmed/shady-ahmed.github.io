@@ -32,9 +32,9 @@ profiles:
     label: E-mail Me
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Ak0e71kAAAAJ&hl=en
-  - icon: researchgate
+  - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Shady-Ahmed
-  - icon: linkedin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/shady-emad
   - icon: brands/x
     url: https://twitter.com/Shady_3mad

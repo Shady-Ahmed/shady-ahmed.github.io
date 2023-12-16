@@ -15,20 +15,14 @@ main:
   #  weight: 30
 
   - name: Home
-    url: '#about'
+    url: /
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Background
+    url: '#education'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
-    url: '#featured'
-    weight: 50
+    url: '#publivation'
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 40

@@ -35,7 +35,7 @@ profiles:
   - icon: custom/researchgate
     #icon_pack: custom
     url: https://www.researchgate.net/profile/Shady-Ahmed
-  - icon: custom/linkedin
+  - icon: linkedin
     url: https://www.linkedin.com/in/shady-emad
   - icon: brands/x
     url: https://twitter.com/Shady_3mad

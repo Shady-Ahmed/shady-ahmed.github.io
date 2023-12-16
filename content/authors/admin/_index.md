@@ -33,6 +33,7 @@ profiles:
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Ak0e71kAAAAJ&hl=en
   - icon: researchgate
+    icon_pack: custom
     url: https://www.researchgate.net/profile/Shady-Ahmed
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shady-emad

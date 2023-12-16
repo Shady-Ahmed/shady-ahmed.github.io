@@ -22,13 +22,14 @@ sections:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
+    id: education
     content:
       username: admin
     design:
       # Hugo date format
       date_format: '2006' #'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
   # - block: publications
   #  content:
   #    title: Skills & Hobbies
@@ -43,7 +44,7 @@ sections:
   #    username: admin
 
   - block: collection
-    id: featured
+    id: publication
     content:
       title: Featured Publications
       filters:
@@ -69,5 +70,5 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: 4
+      #view: 4
 ---

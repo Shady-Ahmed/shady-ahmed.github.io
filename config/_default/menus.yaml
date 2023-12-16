@@ -21,7 +21,7 @@ main:
     url: '#education'
     weight: 20
   - name: Publications
-    url: '#publivation'
+    url: '#publication'
     weight: 30
   - name: Contact
     url: '#contact'

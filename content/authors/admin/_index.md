@@ -32,7 +32,7 @@ profiles:
     label: E-mail Me
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Ak0e71kAAAAJ&hl=en
-  - icon: researchgate
+  - icon: custom/researchgate
     icon_pack: custom
     url: https://www.researchgate.net/profile/Shady-Ahmed
   - icon: brands/linkedin

@@ -42,7 +42,7 @@ header:
       # Logo text
       text: "Shady E. Ahmed"
       # Logo filename in `assets/media/` folder
-      filename: "assets/media/icon.png"
+      filename: "icon.png"
     show_logo: true
     show_language: false
     show_day_night: true

@@ -3,7 +3,7 @@
 title: Shady E. Ahmed
 
 # Name pronunciation (optional)
-name_pronunciation: 'Shah-Dee'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Shady

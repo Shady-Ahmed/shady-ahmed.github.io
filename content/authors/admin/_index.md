@@ -3,7 +3,7 @@
 title: Shady E. Ahmed
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Shah-Dee'
 
 # Full name (for SEO)
 first_name: Shady
@@ -18,12 +18,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow #Computational Scientist
+role: Computational Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Pacific Northwest National Laboratory
-    url: https://www.pnnl.gov/
+    url: https://www.pnnl.gov/people/shady-ahmed
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
